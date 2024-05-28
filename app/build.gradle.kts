@@ -45,6 +45,7 @@ dependencies {
     implementation("libs.androidx.livecycle:livecycle-viewmodel-ktx:2.3.1")
     implementation("libs.androidx.preference:preference-ktx:1.1.1")
     implementation(libs.androidx.room.common)
+    implementation(libs.androidx.room.ktx)
     kapt("libs.androidx.room:room-compiler:2.3.1")
 
     implementation(libs.material)
